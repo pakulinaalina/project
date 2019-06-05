@@ -40,8 +40,8 @@
 
 3. Далее мы создаём три страницы в Excel: links, colours и objects. 
 ![](table1.png)
-![](table1.png)
-![](table1.png)
+![](table2.png)
+![](table3.png)
 
 4. Открываем Gephi и загружаем таблицы.
 ![](table.png)
